@@ -9,5 +9,4 @@ public class EventhubApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EventhubApplication.class, args);
 	}
-
 }
